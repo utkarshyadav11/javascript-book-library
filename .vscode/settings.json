@@ -1,0 +1,21 @@
+{
+         "workbench.colorCustomizations": {
+            "commandCenter.border": "#15202b99",
+            "titleBar.activeBackground": "#42b883",
+            "titleBar.activeForeground": "#15202b",
+            "titleBar.inactiveBackground": "#42b88399",
+            "titleBar.inactiveForeground": "#15202b99",
+            "titleBar.border": "#42b883",
+            "tab.activeBorder": "#65c89b",
+            "panel.border": "#65c89b",
+            "sash.hoverBorder": "#65c89b",
+            "sideBar.border": "#65c89b"
+         },
+         "peacock.color": "#42b883",
+         "peacock.affectSashHover": true,
+         "peacock.affectSideBarBorder": true,
+         "peacock.affectStatusAndTitleBorders": true,
+         "peacock.affectTabActiveBorder": true,
+         "liveServer.settings.port": 5501,
+         "git.ignoreLimitWarning": true
+}
